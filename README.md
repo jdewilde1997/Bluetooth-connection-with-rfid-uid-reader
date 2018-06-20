@@ -31,3 +31,9 @@ client:
 2: scan on
 
 3: connect [device server]
+
+# RFID-RC522
+
+Thanks to piddlerintheroot for RFID-RC522 tutorial http://www.instructables.com/member/piddlerintheroot/
+
+http://www.instructables.com/id/RFID-RC522-Raspberry-Pi/
