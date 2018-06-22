@@ -38,7 +38,7 @@ then follow these instructions:
 
 ## server:
 
-1: discovery on
+1: discoverable on
 
 4: trust [device client]
 
